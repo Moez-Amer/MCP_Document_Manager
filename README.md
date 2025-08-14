@@ -251,13 +251,3 @@ Test your server implementation:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-This project is for educational and demonstration purposes.
-
-## Learn More
-
-- [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
-- [FastMCP Documentation](https://github.com/jlowin/fastmcp)
-- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
